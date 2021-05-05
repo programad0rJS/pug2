@@ -1,0 +1,11 @@
+debemos descargar todo paquetes que no se descargan solo npm 
+debemos llenar los deascarga completamente
+debo hacerlo
+
+
+
+solo use : node-v14.16.0-x86.msi
+npp.7.9.5.Installer.exe
+Sublime Text Build 3211 Setup.exe
+VSCodeUserSetup-ia32-1.55.2.exe
+xampp-portable-win32-7.3.2-0-VC15-installer.exe
